@@ -1,6 +1,6 @@
 # Hidden Markov Models for Activity Recognition
 
-This Jupyter notebook uses **Gaussian Hidden Markov Models (HMM)** to classify human activities from smartphone accelerometer data. The pipeline covers data loading, preprocessing, feature extraction, and HMM-based classification.
+This project includes a Jupyter notebook that uses **Gaussian Hidden Markov Models (HMM)** to classify human activities from smartphone accelerometer data. The pipeline covers data loading, preprocessing, feature extraction, and HMM-based classification.
 
 ## Overview
 
